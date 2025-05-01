@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839206583922",
+    "project_id": "mobgang-492ec",
+    "storage_bucket": "mobgang-492ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839206583922:android:a27117123369c0ef524ceb",
+        "android_client_info": {
+          "package_name": "com.example.drawingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0i1tzsX0gQ1hsp62kAMGbF0DfLT-a-BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
